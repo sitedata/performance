@@ -184,6 +184,9 @@ function perflab_get_focus_areas() {
 		'object-cache' => array(
 			'name' => __( 'Object Cache', 'performance-lab' ),
 		),
+		'database'     => array(
+			'name' => __( 'Database', 'performance-lab' ),
+		),
 	);
 }
 
